@@ -1,2 +1,3 @@
-// Empty interface placeholder
-export interface Placeholder {}
+export interface PillProps {
+  title: string;
+}
